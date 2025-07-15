@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, NavLink } from 'react-router-dom';
 import { useState } from "react";
-import LogoImage from "../../assets/cpcpestcontrol_logo.png";
+import LogoImage from "../../assets/reallogo.webp";
 
 export default function Header() {
     const scrollToTop = () => {
