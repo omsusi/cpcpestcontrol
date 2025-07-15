@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import LogoImage from "../../assets/cpcpestcontrol_logo.png";
+import LogoImage from "../../assets/reallogo.webp";
 
 export default function Footer() {
     const scrollToTop = () => {
